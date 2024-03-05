@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\classassweek03\classassweek03\bin\Debug\net6.0-windows\classassweek03.exe
+C:\Users\student\source\repos\classassweek03\classassweek03\bin\Debug\net6.0-windows\classassweek03.deps.json
+C:\Users\student\source\repos\classassweek03\classassweek03\bin\Debug\net6.0-windows\classassweek03.runtimeconfig.json
+C:\Users\student\source\repos\classassweek03\classassweek03\bin\Debug\net6.0-windows\classassweek03.dll
+C:\Users\student\source\repos\classassweek03\classassweek03\bin\Debug\net6.0-windows\classassweek03.pdb
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.AssemblyInfo.cs
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.dll
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\refint\classassweek03.dll
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.pdb
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.genruntimeconfig.cache
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\ref\classassweek03.dll
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.Form1.resources
+C:\Users\student\source\repos\classassweek03\classassweek03\obj\Debug\net6.0-windows\classassweek03.csproj.GenerateResource.cache

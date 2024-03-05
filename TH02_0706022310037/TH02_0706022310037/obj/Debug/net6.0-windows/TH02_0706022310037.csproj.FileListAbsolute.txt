@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\bin\Debug\net6.0-windows\TH02_0706022310037.exe
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\bin\Debug\net6.0-windows\TH02_0706022310037.deps.json
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\bin\Debug\net6.0-windows\TH02_0706022310037.runtimeconfig.json
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\bin\Debug\net6.0-windows\TH02_0706022310037.dll
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\bin\Debug\net6.0-windows\TH02_0706022310037.pdb
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.Form1.resources
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.dll
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\refint\TH02_0706022310037.dll
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.pdb
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\ref\TH02_0706022310037.dll
+C:\Users\ASUS\source\repos\TH02_0706022310037\TH02_0706022310037\obj\Debug\net6.0-windows\TH02_0706022310037.Form2.resources

@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\classlearnweek03\bin\Debug\net8.0-windows\classlearnweek03.exe
+C:\Users\student\Desktop\classlearnweek03\bin\Debug\net8.0-windows\classlearnweek03.deps.json
+C:\Users\student\Desktop\classlearnweek03\bin\Debug\net8.0-windows\classlearnweek03.runtimeconfig.json
+C:\Users\student\Desktop\classlearnweek03\bin\Debug\net8.0-windows\classlearnweek03.dll
+C:\Users\student\Desktop\classlearnweek03\bin\Debug\net8.0-windows\classlearnweek03.pdb
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.Form1.resources
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.csproj.GenerateResource.cache
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.AssemblyInfo.cs
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.dll
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\refint\classlearnweek03.dll
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.pdb
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\classlearnweek03.genruntimeconfig.cache
+C:\Users\student\Desktop\classlearnweek03\obj\Debug\net8.0-windows\ref\classlearnweek03.dll

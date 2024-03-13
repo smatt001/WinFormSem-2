@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\bin\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.exe
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\bin\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.deps.json
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\bin\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.runtimeconfig.json
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\bin\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.dll
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\bin\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.pdb
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.Form1.resources
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.dll
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\refint\TH03_0706022310037_sem02_fixed.dll
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.pdb
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\TH03_0706022310037_sem02_fixed.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TH03_0706022310037_sem02_fixed\TH03_0706022310037_sem02_fixed\obj\Debug\net6.0-windows\ref\TH03_0706022310037_sem02_fixed.dll

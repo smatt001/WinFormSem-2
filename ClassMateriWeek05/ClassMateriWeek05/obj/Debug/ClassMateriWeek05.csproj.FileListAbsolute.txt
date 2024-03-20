@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\bin\Debug\ClassMateriWeek05.exe.config
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\bin\Debug\ClassMateriWeek05.exe
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\bin\Debug\ClassMateriWeek05.pdb
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.Form1.resources
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.Properties.Resources.resources
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.exe
+C:\Users\student\source\repos\ClassMateriWeek05\ClassMateriWeek05\obj\Debug\ClassMateriWeek05.pdb

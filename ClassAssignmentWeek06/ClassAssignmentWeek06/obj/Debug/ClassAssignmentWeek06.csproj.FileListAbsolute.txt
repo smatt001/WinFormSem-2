@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\bin\Debug\ClassAssignmentWeek06.exe.config
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\bin\Debug\ClassAssignmentWeek06.exe
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\bin\Debug\ClassAssignmentWeek06.pdb
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.Main.resources
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.exe
+C:\Users\ASUS\source\repos\ClassAssignmentWeek06\ClassAssignmentWeek06\obj\Debug\ClassAssignmentWeek06.pdb

@@ -1,0 +1,21 @@
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.exe.config
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.exe
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.pdb
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.AssemblyReference.cache
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome_Week_5.Form1.resources
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome_Week_5.Properties.Resources.resources
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.GenerateResource.cache
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.CoreCompileInputs.cache
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.exe
+C:\Users\Lolz\source\repos\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.pdb
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.exe.config
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.exe
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\bin\Debug\Takehome Week 5.pdb
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome_Week_5.Form1.resources
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome_Week_5.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.exe
+C:\Users\ASUS\source\repos\Takehome_Week_5\Takehome Week 5\Takehome Week 5\obj\Debug\Takehome Week 5.pdb
